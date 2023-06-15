@@ -124,6 +124,7 @@ subdomains to your `/etc/hosts`:
 
 Access via [https://www.onruby.test:3000](https://www.onruby.test:3000)
 
+
 ### Test Data
 
 You don't need any test data to set up a new project!
